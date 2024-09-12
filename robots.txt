@@ -1,0 +1,5 @@
+user-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+Sitemap: https://www.makefilm.sn/sitemap.xml
