@@ -3,7 +3,7 @@
    <!-- Page d'accueil -->
    <url>
       <loc>https://www.makefilm.sn/</loc>
-      <lastmod>2024-09-11</lastmod>
+      <lastmod>2024-09-17</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
@@ -11,7 +11,7 @@
    <!-- Page À propos -->
    <url>
       <loc>https://www.makefilm.sn/about.html</loc>
-      <lastmod>2024-09-11</lastmod>
+      <lastmod>2024-09-17</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
@@ -19,7 +19,7 @@
    <!-- Page Portfolio -->
    <url>
       <loc>https://www.makefilm.sn/portfolio.html</loc>
-      <lastmod>2024-09-11</lastmod>
+      <lastmod>2024-09-17</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
    </url>
@@ -27,7 +27,7 @@
    <!-- Page Contact -->
    <url>
       <loc>https://www.makefilm.sn/contacts.html</loc>
-      <lastmod>2024-09-11</lastmod>
+      <lastmod>2024-09-17</lastmod>
       <changefreq>yearly</changefreq>
       <priority>0.7</priority>
    </url>
